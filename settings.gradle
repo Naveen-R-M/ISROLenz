@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ISRO Lenz 2.0'

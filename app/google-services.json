@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433653840759",
+    "firebase_url": "https://isro-lenz.firebaseio.com",
+    "project_id": "isro-lenz",
+    "storage_bucket": "isro-lenz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433653840759:android:95e01bcecadf2a9c96ff72",
+        "android_client_info": {
+          "package_name": "com.example.isrolenz20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433653840759-rmecee12285ghq01j9e8ciljtd8speru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isrolenz20",
+            "certificate_hash": "3bc972e710d7d13ab1e9df288c9ab03bca06426c"
+          }
+        },
+        {
+          "client_id": "433653840759-6glphc5elop1ein3uhropdkqrb7cesn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzey6BuRtdvPbrDd2E4BHwX92bIIZR5Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433653840759-6glphc5elop1ein3uhropdkqrb7cesn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
